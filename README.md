@@ -82,3 +82,10 @@ See `docs/VALIDATION.md` for executed checks and limitations. Next milestones: v
 ## Attribution
 
 Conceptual inspiration: https://github.com/FathimaNafra/finance-databricks-data-engineering-project by Fathima Nafra. This starter is newly written code; no source notebooks, screenshots, or dataset files from that repository are included. No license claim is made about that repository.
+## Power BI Dashboard
+
+![Nigerian Payments Dashboard](docs/dashboard.png)
+
+Displays daily successful payment value, payment success rate, simulated fee revenue, and channel performance for 20,000 synthetic payment attempts.
+
+Open `powerbi/Nigerian_Payments_Dashboard.pbix` in Power BI Desktop to explore the interactive report.
